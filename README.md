@@ -4,6 +4,8 @@ A two-player digital recreation of the board game Abagio using Python
 and Pygame. Note that this project is incomplete, but most major
 gameplay features have been implemented.
 
+[View a demonstration video here!](https://www.youtube.com/watch?v=KSjtwxDYB5E)
+
 ### Important Notes
 
 - Abagio is a two-player game and AI
